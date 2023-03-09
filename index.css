@@ -1,0 +1,23 @@
+.hero{
+    background-image: url("./fanadesh-html/images/hero-bg.png");
+    width: 100%;
+ }
+.pad
+{ margin: 0;
+    padding: 0;
+}
+.padd
+{
+    margin: 10px;
+    padding: 10px;
+}
+.paddd{
+    /* margin:5px;
+    padding:5px; */
+    background-color: black;
+    color: white;
+    overflow-x: hidden;
+}
+.footer{
+    background-color: yellow;
+}
